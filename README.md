@@ -231,6 +231,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Clojush](https://github.com/lspector/Clojush) -  The Push programming language and the PushGP genetic programming system implemented in Clojure
 * [Infer](https://github.com/aria42/infer) - Inference and machine learning in clojure
 * [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends
+* [DL4CLJ](https://github.com/engagor/dl4clj/) - Clojure wrapper for Deeplearning4j
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets)
 * [Fungp](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure
 * [Statistiker](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure.
@@ -762,7 +763,6 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="python-general-purpose" />
 #### General-Purpose Machine Learning
-* [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning pipelines for analytics and production. Handles some standard feature engineering, feature selection, model selection, model tuning, ensembling, and advanced scoring, in addition to logging output for analysts trying to understand their datasets.
 * [machine learning](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines.  Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
 * [XGBoost](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python
@@ -874,6 +874,7 @@ on MNIST digits[DEEP LEARNING]
 * [somoclu](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
 * [HDBScan](https://github.com/lmcinnes/hdbscan) - implementation of the hdbscan algorithm in Python - used for clustering
 * [visualize_ML](https://github.com/ayush1997/visualize_ML) - A python package for data exploration and data analysis.
+* [scikit-plot](https://github.com/reiinakano/scikit-plot) - A visualization library for quick and easy generation of common plots in data analysis and machine learning.
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
